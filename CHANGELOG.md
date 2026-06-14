@@ -72,3 +72,5 @@
 - **07-06-26 Ejercicio 02**: Inicialización de DVC y migración de datasets masivos y binarios.
 
 - **07-06-26 Ejercicio 02**: Inicialización de DVC y migración de datasets masivos y binarios.
+
+- **08-06-26 Ejercicio 03**: Diseño e implementación del modelo lógico de dominio en POO.
