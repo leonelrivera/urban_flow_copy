@@ -78,3 +78,5 @@
 - **08-06-26 Ejercicio 03**: Diseño e implementación del modelo lógico de dominio en POO.
 
 - **08-06-26 Ejercicio 03**: Diseño e implementación del modelo lógico de dominio en POO.
+
+- **09-06-26 Ejercicio 04**: Implementación de la función para el mapeo de filas CSV.
